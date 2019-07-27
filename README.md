@@ -1,17 +1,14 @@
 # Python projects
 
 ## Pygame
-+ Platformer
-+ Shooter
-
 ```bash
 pip install -r requirements.txt
 ```
-### Platformer
++ Platformer
 ```python
 python main.py
 ```
-### Shooter
++ Shooter
 ```python
 python shmup.py
 ```
