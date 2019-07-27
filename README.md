@@ -1,6 +1,14 @@
 # Python_projects
 
-<h3>Pygame: </h3>
-<h4>Platformer</h4>
-<h4>Shooter</h4>
+## Pygame
++ Platformer
++ Shooter
 
+```bash
+pip install -r requirements.txt
+```
+
+## Other
++ Tic tac toe
++ LocalPeak
++ BlackJack
