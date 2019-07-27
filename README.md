@@ -1,4 +1,4 @@
-# Python_projects
+# Python projects
 
 ## Pygame
 + Platformer
