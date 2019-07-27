@@ -1,6 +1,6 @@
 # Python_projects
 
-<h1>Pygame: </h1>
-* Platformer
-* Shooter
+<h2>Pygame: </h2>
+<h4>Platformer</h4>
+<h4>Shooter</h4>
 
