@@ -4,11 +4,11 @@
 ```bash
 pip install -r requirements.txt
 ```
-+ Platformer
+1. Platformer
 ```python
 python main.py
 ```
-+ Shooter
+2. Shooter
 ```python
 python shmup.py
 ```
